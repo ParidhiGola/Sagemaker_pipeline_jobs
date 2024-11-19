@@ -1,0 +1,4 @@
+sckit-learn
+fastapi
+numpy
+uvicorn
